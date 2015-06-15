@@ -8,5 +8,9 @@ public class Test {
 		
 		System.out.println("Github is cool");	
 	}
+	
+	public void method() {
+		
+	}
 
 }
